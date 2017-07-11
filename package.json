@@ -1,0 +1,19 @@
+{
+  "name": "elevator-api",
+  "version": "1.0.0",
+  "description": "Node.js built program routing passengers on elevators to various floors using Event-Emitter listener events",
+  "main": "Elevator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacback/elevator-event-emitter-api.git"
+  },
+  "author": "chris barriteau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dacback/elevator-event-emitter-api/issues"
+  },
+  "homepage": "https://github.com/dacback/elevator-event-emitter-api#readme"
+}
